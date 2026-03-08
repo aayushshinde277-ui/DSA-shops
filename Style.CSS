@@ -1,0 +1,30 @@
+body{
+
+background-color: pink;
+
+color: black;
+
+text-align: center;
+
+font-family: Rose Auntumn;
+
+}
+
+
+button{
+
+padding:10px 20px;
+
+border-radius:8px;
+
+background:black;
+
+color:white;
+
+}
+
+h1{
+
+  text-align: left;
+
+}
